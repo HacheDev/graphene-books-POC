@@ -8,7 +8,7 @@ from graphql_books.books.models import Author, Editorial, Book
 
 
 class Command(BaseCommand):
-    help = 'Populate database with data from a JSON file'
+    help = 'Populate database with data from a JSON file whose path is defined in the first argument'
 
     def add_arguments(self, parser):
         parser.add_argument('filename', type=str, help='JSON file containing the data')
