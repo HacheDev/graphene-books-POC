@@ -1,0 +1,378 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "J.K. Rowling",
+      "birthdate": "July 31, 1965",
+      "books": [
+        {
+          "id": 1,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "summary": " The first book in the series introduces readers to Harry Potter, an orphaned boy who discovers that he is a wizard. He begins his magical education at Hogwarts School of Witchcraft and Wizardry, makes new friends, and faces off against the evil Lord Voldemort for the first time.",
+           "editorials": [
+              {
+                "id": 1,
+                "name": "Vintage Books"
+              },
+              {
+                "id": 2,
+                "name": "Harvill Secker"
+              }
+            ]
+        },
+        {
+          "id": 2,
+          "title": "Harry Potter and the Chamber of Secrets",
+          "summary": " In this second book, Harry returns to Hogwarts for his second year and discovers a mysterious chamber in the school that has been opened, unleashing a dangerous creature that is attacking students. With the help of his friends Ron and Hermione, Harry sets out to solve the mystery and stop the attacks."
+        },
+        {
+          "id": 3,
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "summary": "Harry's third year at Hogwarts is marked by the arrival of Sirius Black, a notorious wizard who has escaped from the wizarding prison Azkaban and is believed to be seeking revenge against Harry. With the help of new allies and new magical abilities, Harry must confront the truth about his family and the secrets of Hogwarts"
+        },
+        {
+          "id": 4,
+          "title": "Harry Potter and the Goblet of Fire",
+          "summary": "The fourth book is a turning point in the series, as Harry is unexpectedly entered into the Triwizard Tournament, a dangerous magical competition between three wizarding schools. As the challenges become more and more dangerous, Harry begins to uncover a dark plot that threatens not only his own life, but the entire wizarding world."
+        },
+        {
+          "id": 5,
+          "title": "Harry Potter and the Order of Phoenix",
+          "summary": "In the fifth book, Harry returns to Hogwarts to find that the Ministry of Magic is denying the return of Lord Voldemort and trying to discredit Harry and Dumbledore. As Harry and his friends struggle against the Ministry's propaganda, they also must face a new threat in the form of the mysterious and dangerous Order of Phoenix."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gabriel Garcia Marquez",
+      "birthdate": "March 6, 1927",
+      "deathdate": "April 17, 2014",
+      "books": [
+        {
+            "id": 6,
+            "title": "One Hundred Years of Solitude",
+            "summary": "This novel tells the story of the Buendia family and the fictional town of Macondo, which they found. The novel spans several generations and explores themes of love, family, death, and the cyclical nature of time. It is considered a masterpiece of magical realism.",
+            "editorials": [
+                {
+                    "id": 1,
+                    "name": "Harper & Row"
+                },
+                {
+                    "id": 2,
+                    "name": "Jonathan Cape"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Love in the Time of Cholera",
+            "summary": "This novel follows the love story of Fermina Daza and Florentino Ariza, who fall in love as young people but are separated by circumstances. They spend years apart, but Florentino remains devoted to Fermina, even as she marries another man. The novel explores themes of love, aging, and the passage of time.",
+            "editorials": [
+                {
+                    "id": 3,
+                    "name": "Knopf"
+                },
+                {
+                    "id": 4,
+                    "name": "Alfred A. Knopf"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Chronicle of a Death Foretold",
+            "summary": "This novella is a fictionalized account of a true story that Marquez heard about a murder in his native Colombia. The book explores the circumstances leading up to the murder, and the ways in which the townspeople were aware of the impending tragedy but did nothing to stop it.",
+            "editorials": [
+                {
+                    "id": 5,
+                    "name": "Penguin Books"
+                },
+                {
+                    "id": 6,
+                    "name": "HarperCollins"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "The Autumn of the Patriarch",
+            "summary": "This novel tells the story of an unnamed dictator in an unnamed Caribbean country. It explores themes of power, corruption, and the nature of dictatorship, as well as the legacy of colonialism.",
+            "editorials": [
+                {
+                    "id": 7,
+                    "name": "Vintage Books"
+                },
+                {
+                    "id": 8,
+                    "name": "Picador"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "The General in His Labyrinth",
+            "summary": "This novel is a fictionalized account of the final days of Simon Bolivar, the liberator of South America. The book explores Bolivar's inner turmoil as he reflects on his life's work and confronts his own mortality.",
+            "editorials": [
+                {
+                    "id": 9,
+                    "name": "Alfred A. Knopf"
+                },
+                {
+                    "id": 10,
+                    "name": "Mondadori"
+                }
+            ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Stephen King",
+      "birthdate": "September 21, 1947",
+      "books":  [
+        {
+          "id": 11,
+          "title": "The Shining",
+          "editorials": [
+            {
+              "id": 1,
+              "name": "Penguin Books"
+            },
+            {
+              "id": 2,
+              "name": "Doubleday"
+            }
+      ],
+      "summary": "The Shining is a horror novel by American author Stephen King."
+  },
+  {
+    "id": 12,
+    "title": "It",
+    "editorials": [
+      {
+        "id": 3,
+        "name": "Viking Press"
+      },
+      {
+        "id": 4,
+        "name": "Signet Books"
+      }
+    ],
+    "summary": "It is a horror novel by American author Stephen King."
+  },
+  {
+    "id": 13,
+    "title": "Carrie",
+    "editorials": [
+      {
+        "id": 5,
+        "name": "Doubleday"
+      },
+      {
+        "id": 6,
+        "name": "New English Library"
+      }
+    ],
+    "summary": "Carrie is a horror novel by American author Stephen King."
+  },
+  {
+    "id": 14,
+    "title": "Misery",
+    "editorials": [
+      {
+        "id": 7,
+        "name": "Viking Press"
+      },
+      {
+        "id": 8,
+        "name": "Hodder & Stoughton"
+      }
+    ],
+    "summary": "Misery is a psychological horror thriller novel by American author Stephen King."
+  },
+  {
+    "id": 15,
+    "title": "The Stand",
+    "editorials": [
+      {
+        "id": 9,
+        "name": "Doubleday"
+      },
+      {
+        "id": 10,
+        "name": "Signet Books"
+      }
+    ],
+    "summary": "The Stand is a post-apocalyptic dark fantasy novel by American author Stephen King."
+  }
+]
+
+
+    },
+    {
+      "id": 4,
+      "name": "Chimamanda Ngozi Adichie",
+      "birthdate": "September 15, 1977",
+      "books": [
+          {
+            "id": 16,
+            "title": "Purple Hibiscus",
+            "summary": "This horror novel tells the story of the Torrance family, who move into the Overlook Hotel in Colorado during the winter, when it is closed for the season. The father, Jack, is a recovering alcoholic who takes a job as the hotel's caretaker. As winter sets in, the family becomes isolated and the hotel's dark history begins to take hold of Jack's sanity.",
+            "editorials": [
+              {
+                "id": 1,
+                "name": "Penguin Books"
+              },
+              {
+                "id": 2,
+                "name": "Anchor Books"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "title": "Half of a Yellow Sun",
+            "summary": "This horror novel follows a group of seven friends, known as the Losers Club, who are terrorized by an evil entity that takes the form of their worst fears. The entity, which they call \"It,\" primarily appears as a clown named Pennywise. The novel alternates between the group's childhood experiences with It and their adult return to their hometown to confront the entity once and for all.",
+            "editorials": [
+              {
+                "id": 3,
+                "name": "Alfred A. Knopf"
+              },
+              {
+                "id": 4,
+                "name": "Anchor Books"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "title": "Americanah",
+            "summary": "This horror novel tells the story of a teenage girl named Carrie White, who has telekinetic powers and is bullied by her classmates. After a cruel prank at prom, Carrie unleashes her powers in a devastating display of revenge.",
+            "editorials": [
+              {
+                "id": 5,
+                "name": "Anchor Books"
+              },
+              {
+                "id": 6,
+                "name": "Fourth Estate"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "title": "The Thing Around Your Neck",
+            "summary": "This psychological horror novel tells the story of Paul Sheldon, a successful romance novelist who is held captive by his number one fan, Annie Wilkes, after a car accident. Annie is obsessed with Paul's novels and becomes increasingly unhinged as she demands he write a new novel that satisfies her",
+            "editorials": [
+              {
+                "id": 7,
+                "name": "Anchor Books"
+              },
+              {
+                "id": 8,
+                "name": "Bloomsbury Publishing"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "title": "We Should All Be Feminists",
+            "summary": "This post-apocalyptic novel tells the story of a deadly virus that wipes out most of the world's population. The novel follows a large cast of characters as they navigate the new world, including those who are immune to the virus and those who have survived it. They eventually come together in two opposing factions: one led by a benevolent woman named Mother Abigail, and the other by a malevolent man known as Randall Flagg.",
+            "editorials": [
+              {
+                "id": 9,
+                "name": "Anchor Books"
+              },
+              {
+                "id": 10,
+                "name": "Fourth Estate"
+              }
+            ]
+          }
+        ]
+    },
+    {
+      "id": 5,
+      "name": "Haruki Murakami",
+      "birthdate": "January 12, 1949",
+      "books": [
+          {
+            "id": 21,
+            "title": "Norwegian Wood",
+            "summary": "A poignant coming-of-age story set in 1960s Tokyo, Norwegian Wood follows Toru Watanabe, a young college student, as he navigates his way through love and loss.",
+            "editorials": [
+              {
+                "id": 1,
+                "name": "Vintage Books"
+              },
+              {
+                "id": 2,
+                "name": "Harvill Secker"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "title": "Kafka on the Shore",
+            "summary": "A surreal and mesmerizing tale that intertwines two seemingly unrelated narratives, Kafka on the Shore explores themes of identity, memory, and the power of literature.",
+            "editorials": [
+              {
+                "id": 3,
+                "name": "Vintage Books"
+              },
+              {
+                "id": 4,
+                "name": "Knopf Publishing Group"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "title": "1Q84",
+            "summary": "A sprawling and epic novel that explores the strange and mysterious world of 1Q84, a parallel reality that is both familiar and unfamiliar at the same time.",
+            "editorials": [
+              {
+                "id": 5,
+                "name": "Vintage Books"
+              },
+              {
+                "id": 6,
+                "name": "Shinchosha"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "title": "The Wind-Up Bird Chronicle",
+            "summary": "A haunting and surreal tale that follows Toru Okada, a young man who embarks on a journey of self-discovery after his wife goes missing.",
+            "editorials": [
+              {
+                "id": 7,
+                "name": "Vintage Books"
+              },
+              {
+                "id": 8,
+                "name": "Noma Bungeisha"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "title": "Hard-Boiled Wonderland and the End of the World",
+            "summary": "A mind-bending and genre-defying novel that explores the intersection of reality and fantasy, Hard-Boiled Wonderland and the End of the World is a tour de force of imagination and storytelling.",
+            "editorials": [
+              {
+                "id": 9,
+                "name": "Vintage Books"
+              },
+              {
+                "id": 10,
+                "name": "Kodansha"
+              }
+            ]
+          }
+        ]
+
+      }
+  ]
+}
